@@ -60,8 +60,7 @@ I'm passionate about **software development, problem solving, and building cool 
 
 ---
 
-## 📈 GitHub Stats  
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jas212-on&show_icons=true&theme=radical)             
+## 📈 GitHub Stats              
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jas212-on&layout=compact&theme=radical) 
  
