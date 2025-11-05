@@ -48,6 +48,7 @@ I'm passionate about **software development, problem solving, and building cool 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-3DDC84?style=for-the-badge&logo=pinecone&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-Connected-brightgreen)
 
 **AI / ML & LLMs**  
 
@@ -60,10 +61,11 @@ I'm passionate about **software development, problem solving, and building cool 
 
 ---
 
-## 📈 GitHub Stats              
+# Jason's GitHub Profile
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jas212-on&layout=compact&theme=radical) 
- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jas212-on&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jas212-on&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jas212-on&theme=radical)
 
 ---
 
