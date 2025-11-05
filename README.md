@@ -15,9 +15,30 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Jason! 👋
 
-Full-Stack Developer | AI/ML Enthusiast
-<p>Hi, I'm a developer who genuinely enjoys building things that make a difference. I'm driven by curiosity and a passion for solving real-world problems through thoughtful, well-crafted digital solutions. I care about writing clean, maintainable code and designing user-friendly experiences. Whether it's learning something new or refining what I already know, I'm always looking to grow and improve as a developer. Technology keeps evolving, and I enjoy being part of that journey — exploring ideas, tackling challenges, and turning them into meaningful work.</p>
-</div>
+### 👨‍💻 Full-Stack Developer | AI/ML Enthusiast
+
+---
+
+### 🚀 About Me
+I'm a developer who genuinely enjoys building things that make a difference. Driven by curiosity and a passion for solving real-world problems, I focus on creating thoughtful, well-crafted digital solutions.
+
+---
+
+### 💫 What I Care About
+| ✨ Clean Code | 🎨 User Experience | 📚 Continuous Learning | 🚀 Meaningful Impact |
+|--------------|-----------------|----------------------|-------------------|
+| Writing maintainable, scalable solutions | Designing intuitive interfaces | Always growing and improving | Turning ideas into reality |
+
+Technology keeps evolving, and I enjoy being part of that journey — exploring new ideas, tackling challenges, and transforming them into solutions that matter.
+
+---
+
+### 💡 Current Focus
+- Exploring the intersection of **full-stack development** and **AI/ML** to build intelligent, scalable applications.
+
+### 🌱 Always Learning
+- Every project is an opportunity to refine my skills, learn something new, and push the boundaries of what's possible.
+
 
 ---
 
@@ -58,9 +79,19 @@ Full-Stack Developer | AI/ML Enthusiast
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jas212-on&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jas212-on&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=jas212-on&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&border_radius=15&border_color=ff79c6" alt="GitHub Stats" height="180"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jas212-on&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&border_radius=15&border_color=ff79c6" alt="Top Languages" height="180"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jas212-on&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" height="180"/>
+
+
+
 </div>
+
+
+
 
 ---
 
